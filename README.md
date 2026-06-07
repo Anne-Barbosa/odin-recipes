@@ -25,11 +25,11 @@ By completing this project, I practiced and demonstrated my understanding of:
 
 ## Project Structure
 
-odin-recipes/ 
-
-├── index.html 
+odin-recipes/  
 
 ├── recipes/ 
+
+│ ├── Images
 
 │ ├── vanilla-ice-cream.html 
 
@@ -38,6 +38,8 @@ odin-recipes/
 │ └── grilled-garlic-and-herb-shrimp.html 
 
 └── README.md
+
+├── index.html
 
 ## Reflection
 
