@@ -2,13 +2,42 @@
 
 THis project is part of the Odin Project Foundations course.
 
-The goal of this project is to build a basic recipe website using HTML.
+Odin Recipes is a basic recipe website built using HTML. The website contains a homepage with links to individual recipe pages, each featuring a description, ingredients list, preparation steps, and images.
 
-By completing this project, I will demonstrate my understanding of:
+## Recipes Included
 
-* HTML boilerplate
+* Vanilla Ice Cream
+* Smoky Grilled Pork Chops
+* Grilled Garlic and Herb Shrimp
+
+## Skills Demonstrated
+
+By completing this project, I practiced and demonstrated my understanding of:
+
+* HTML boilerplate structure
 * Headings and paragraphs
-* Links
-* Images
-* Lists
-* Website structure
+* Relative links and navigation
+* Images and image attributes
+* Ordered and unordered lists
+* FIle and folder organization
+* Building multi-page websites
+* Basic Git and Github workflow
+
+## Project Structure
+
+odin-recipes/ 
+├── index.html 
+
+├── recipes/ 
+
+│ ├── vanilla-ice-cream.html 
+
+│ ├── smoky-grilled-pork-chops.html 
+
+│ └── grilled-garlic-and-herb-shrimp.html 
+
+└── README.md
+
+## Reflection
+
+This project helped me reinforce the fundamentals of HTML and website structure. It also gave me practical experience organization files, creating navigation between pages, and managing a project using Git and GitHub.
