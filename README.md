@@ -26,6 +26,7 @@ By completing this project, I practiced and demonstrated my understanding of:
 ## Project Structure
 
 odin-recipes/ 
+
 ├── index.html 
 
 ├── recipes/ 
