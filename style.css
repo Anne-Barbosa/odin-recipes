@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    padding: 2px;
+    margin: 12px;
+    background-color: rgb(236, 221, 191);
+}
+
+#title {
+    font-size: 35px;
+    text-align: center;
+    color: #d1911a;
+}
+
+.links {
+    font-size: 18px;
+    margin: 12px;
+}
+
+.link {
+    text-decoration: none;
+    color: hsl(0, 3%, 14%);
+}
+
+.recipe {
+    margin-bottom: 10px;
+}
