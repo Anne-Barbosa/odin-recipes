@@ -1,8 +1,12 @@
 # Odin Recipes
 
-THis project is part of the Odin Project Foundations course.
+THis project is part of the Odin Project - Foundations course.
 
-Odin Recipes is a basic recipe website built using HTML. The website contains a homepage with links to individual recipe pages, each featuring a description, ingredients list, preparation steps, and images.
+## Project Overview
+
+Odin Recipes is a simple multi-page recipe website built using HTML and CSS. The website contains a homepage with links to individual recipe pages. Each recipe page includes a description, ingredients list, preparation steps, images, and basic styling.
+
+The project was created to practice fundamental web development concepts and gain hands-on experience with building and organizing a small website.
 
 ## Recipes Included
 
@@ -12,35 +16,78 @@ Odin Recipes is a basic recipe website built using HTML. The website contains a 
 
 ## Skills Demonstrated
 
-By completing this project, I practiced and demonstrated my understanding of:
+By completing this project, I practiced and strengthened my understanding of:
+
+### HTML
 
 * HTML boilerplate structure
 * Headings and paragraphs
 * Relative links and navigation
 * Images and image attributes
 * Ordered and unordered lists
-* FIle and folder organization
+* Semantic HTML elements
 * Building multi-page websites
-* Basic Git and Github workflow
+
+### CSS
+
+* External stylesheets
+* Selectors, classes, and IDs
+* Colors and background colors
+* Typography and text styling
+* Margins and padding
+* Basic page layout and spacing
+
+### Development Workflow
+
+* File and folder organization
+* Working with the terminal
+* Opening and managing project through VS Code
+* Basic Git and GitHub workflow
+* Creating commits
+* Pushing changes to GitHub
 
 ## Project Structure
 
-odin-recipes/  
+odin-recipes/ 
 
-├── recipes/ 
+│ 
 
-│ ├── Images
+├── index.html 
 
-│ ├── vanilla-ice-cream.html 
+├── style.css 
 
-│ ├── smoky-grilled-pork-chops.html 
+├── README.md 
 
-│ └── grilled-garlic-and-herb-shrimp.html 
+│ 
 
-└── README.md
+└── recipes/ 
 
-├── index.html
+    ├── Images/ 
+    
+    │ 
+
+    ├── vanilla-icecream
+    
+        ├── vanilla-ice-cream.html 
+    
+        ├── vanilla-ice-cream.css 
+    
+    │── grilled-pork
+    
+        ├── grilled-pork.html 
+    
+        ├── grilled-pork.css 
+    
+    └── herb-shrimp
+    
+        ├── herb-shrimp.html 
+    
+        └── herb-shrimp.css
 
 ## Reflection
 
-This project helped me reinforce the fundamentals of HTML and website structure. It also gave me practical experience organization files, creating navigation between pages, and managing a project using Git and GitHub.
+This project helped me reinforce the fundamentals of HTML and CSS while building a complete website from scratch.
+
+In addition to web development concepts, I gained practical experience working more independently, using the terminal, organizing project files, managing repositories with Git and GitHub, and applying styling through external CSS files.
+
+Completing this project gave me a stronger understanding of how websites are structured and how HTML and CSS work together to create user-friendly web pages.
